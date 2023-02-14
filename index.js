@@ -15,3 +15,6 @@ function volume(x, y, z ){
 for ( let i = 1 ; i <= 10; i++){
     console.log (i);
 }
+
+//массив из 10 чисел 
+let example1 = [1, 5, 4, 3, 7, 9 , 10, 11,3, 14 ];
